@@ -1,0 +1,20 @@
+.responsive-iframe {
+   position: absolute;
+   top: 75px;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   width: 100vw;
+   height: 100vh;
+   border: 0;
+}
+
+.toolbar.no-border, .navbar.no-border{
+   .toolbar-background{
+   border:0;
+   }
+   }
+
+   ion-navbar.toolbar {
+      height: 0px;
+  }
